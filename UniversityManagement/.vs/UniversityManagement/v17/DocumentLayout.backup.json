@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Generatereport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Generatereport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Transcript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Transcript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Transcript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Transcript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewGrades.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ViewGrades.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewGrades.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ViewGrades.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\AdminSignUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:AdminSignUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:CourseManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:CourseManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:CourseManagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\AdminSignUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:AdminSignUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdatePassword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:UpdatePassword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdateUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:UpdateUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PayFees.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:PayFees.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PayFees.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:PayFees.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageFinances.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ManageFinances.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ViewRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ViewRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\VerifyEnrollment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:VerifyEnrollment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdateCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:UpdateCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\StudentManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:StudentManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PasswordReset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:PasswordReset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PasswordReset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:PasswordReset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ManageProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ManageProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\StudentManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:StudentManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\FacultyManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:FacultyManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\FacultyManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:FacultyManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageFinances.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:ManageFinances.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7342128-53E4-4700-BBFA-4357C15C8619}|UniversityManagement.vcxproj|solutionrelative:MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generatereport.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h",
+              "RelativeDocumentMoniker": "Generatereport.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h",
+              "RelativeToolTip": "Generatereport.h",
+              "ViewState": "AgIAABMBAAAAAAAAAAAqwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T11:34:11.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewGrades.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewGrades.h",
+              "RelativeDocumentMoniker": "ViewGrades.h",
+              "ToolTip": "C:\\UniversityManagement\\ViewGrades.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\ViewGrades.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:47:51.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generatereport.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h",
+              "RelativeDocumentMoniker": "Generatereport.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Generatereport.h [Design]",
+              "RelativeToolTip": "Generatereport.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T11:34:10.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faculty.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h",
+              "RelativeDocumentMoniker": "Faculty.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h [Design]",
+              "RelativeToolTip": "Faculty.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T17:11:13.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PayFees.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PayFees.h",
+              "RelativeDocumentMoniker": "PayFees.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PayFees.h",
+              "RelativeToolTip": "PayFees.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T01:00:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\login.cpp",
+              "RelativeDocumentMoniker": "login.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\login.cpp",
+              "RelativeToolTip": "login.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T11:01:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewRoster.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewRoster.h",
+              "RelativeDocumentMoniker": "ViewRoster.h",
+              "ToolTip": "C:\\UniversityManagement\\ViewRoster.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\ViewRoster.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:48:01.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewRoster.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewRoster.h",
+              "RelativeDocumentMoniker": "ViewRoster.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewRoster.h",
+              "RelativeToolTip": "ViewRoster.h",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:48:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminSignUp.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\AdminSignUp.cpp",
+              "RelativeDocumentMoniker": "AdminSignUp.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\AdminSignUp.cpp",
+              "RelativeToolTip": "AdminSignUp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T11:01:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transcript.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Transcript.h",
+              "RelativeDocumentMoniker": "Transcript.h",
+              "ToolTip": "C:\\UniversityManagement\\Transcript.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\Transcript.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:45:13.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transcript.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Transcript.h",
+              "RelativeDocumentMoniker": "Transcript.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Transcript.h",
+              "RelativeToolTip": "Transcript.h",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:46:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseManagement.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.cpp",
+              "RelativeDocumentMoniker": "CourseManagement.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.cpp",
+              "RelativeToolTip": "CourseManagement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T11:49:36.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAEwNIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T17:10:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Faculty.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h",
+              "RelativeDocumentMoniker": "Faculty.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Faculty.h",
+              "RelativeToolTip": "Faculty.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T17:11:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewGrades.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewGrades.h",
+              "RelativeDocumentMoniker": "ViewGrades.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ViewGrades.h",
+              "RelativeToolTip": "ViewGrades.h",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAALAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T17:37:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseManagement.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.h",
+              "RelativeDocumentMoniker": "CourseManagement.h",
+              "ToolTip": "C:\\UniversityManagement\\CourseManagement.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\CourseManagement.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:06:16.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseManagement.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.h",
+              "RelativeDocumentMoniker": "CourseManagement.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\CourseManagement.h",
+              "RelativeToolTip": "CourseManagement.h",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAMYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:08:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\UniversityManagement\\Student.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\Student.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:45:01.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminSignUp.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\AdminSignUp.h",
+              "RelativeDocumentMoniker": "AdminSignUp.h",
+              "ToolTip": "C:\\UniversityManagement\\AdminSignUp.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\AdminSignUp.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T01:22:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VerifyEnrollment.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\VerifyEnrollment.h",
+              "RelativeDocumentMoniker": "VerifyEnrollment.h",
+              "ToolTip": "C:\\UniversityManagement\\VerifyEnrollment.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\VerifyEnrollment.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:46:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUser.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdateUser.h",
+              "RelativeDocumentMoniker": "UpdateUser.h",
+              "ToolTip": "C:\\UniversityManagement\\UpdateUser.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\UpdateUser.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:46:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePassword.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdatePassword.h",
+              "RelativeDocumentMoniker": "UpdatePassword.h",
+              "ToolTip": "C:\\UniversityManagement\\UpdatePassword.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\UpdatePassword.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:46:25.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageFinances.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageFinances.h",
+              "RelativeDocumentMoniker": "ManageFinances.h",
+              "ToolTip": "C:\\UniversityManagement\\ManageFinances.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\ManageFinances.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:08:31.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PayFees.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PayFees.h",
+              "RelativeDocumentMoniker": "PayFees.h",
+              "ToolTip": "C:\\UniversityManagement\\PayFees.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\PayFees.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:44:53.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateCourse.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\UpdateCourse.h",
+              "RelativeDocumentMoniker": "UpdateCourse.h",
+              "ToolTip": "C:\\UniversityManagement\\UpdateCourse.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\UpdateCourse.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:46:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PasswordReset.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PasswordReset.h",
+              "RelativeDocumentMoniker": "PasswordReset.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PasswordReset.h",
+              "RelativeToolTip": "PasswordReset.h",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAALoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:44:15.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PasswordReset.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\PasswordReset.h",
+              "RelativeDocumentMoniker": "PasswordReset.h",
+              "ToolTip": "C:\\UniversityManagement\\PasswordReset.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\PasswordReset.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:43:46.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageProfile.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageProfile.h",
+              "RelativeDocumentMoniker": "ManageProfile.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageProfile.h",
+              "RelativeToolTip": "ManageProfile.h",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAAA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:42:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageProfile.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageProfile.h",
+              "RelativeDocumentMoniker": "ManageProfile.h",
+              "ToolTip": "C:\\UniversityManagement\\ManageProfile.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\ManageProfile.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:42:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentManagement.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\StudentManagement.h",
+              "RelativeDocumentMoniker": "StudentManagement.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\StudentManagement.h",
+              "RelativeToolTip": "StudentManagement.h",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAKsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:37:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentManagement.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\StudentManagement.h",
+              "RelativeDocumentMoniker": "StudentManagement.h",
+              "ToolTip": "C:\\UniversityManagement\\StudentManagement.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\StudentManagement.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:37:22.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FacultyManagement.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\FacultyManagement.h",
+              "RelativeDocumentMoniker": "FacultyManagement.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\FacultyManagement.h",
+              "RelativeToolTip": "FacultyManagement.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:30:14.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FacultyManagement.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\FacultyManagement.h",
+              "RelativeDocumentMoniker": "FacultyManagement.h",
+              "ToolTip": "C:\\UniversityManagement\\FacultyManagement.h [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UniversityManagement\\FacultyManagement.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:29:36.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManageFinances.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageFinances.h",
+              "RelativeDocumentMoniker": "ManageFinances.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\ManageFinances.h",
+              "RelativeToolTip": "ManageFinances.h",
+              "ViewState": "AgIAADcAAAAAAAAAAIAwwIsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:08:34.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainForm.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\MainForm.h",
+              "RelativeDocumentMoniker": "MainForm.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Ashesi University\\Documents\\Intermediate_Programming\\UniversityManagement\\UniversityManagement\\MainForm.h",
+              "RelativeToolTip": "MainForm.h",
+              "ViewState": "AgIAAJ0AAAAAAAAAAIAwwK4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T00:27:16.699Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

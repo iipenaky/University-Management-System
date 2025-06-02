@@ -1,0 +1,97 @@
+C:\Users\user\source\repos\UniversityManagement\x64\Debug\mysql.data.dll
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddCourse.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddFaculty1.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddStudent.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Administrator.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AdminSignUp.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseManagement.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseRegistration.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteCourse.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteFaculty.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.EnterGrades.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Faculty.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.FacultyManagement.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Generatereport.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.login.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.MainForm.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageProfile.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PasswordReset.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PayFees.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Student.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.StudentManagement.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Transcript.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateCourse.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateUser.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewGrades.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewRoster.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\Universi.4A74D225.Up2Date
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageCourseMaterials.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageFinances.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.VerifyEnrollment.resources
+C:\Users\user\source\repos\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdatePassword.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.AssemblyReference.cache
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddCourse.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddFaculty1.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddStudent.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Administrator.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AdminSignUp.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseManagement.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseRegistration.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteCourse.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteFaculty.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.EnterGrades.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Faculty.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.FacultyManagement.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Generatereport.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.login.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.MainForm.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageCourseMaterials.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageFinances.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageProfile.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PasswordReset.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PayFees.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Student.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.StudentManagement.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Transcript.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateCourse.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdatePassword.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateUser.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.VerifyEnrollment.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewGrades.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewRoster.resources
+C:\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.GenerateResource.cache
+C:\UniversityManagement\Universi.B7342128\x64\Debug\Universi.4A74D225.Up2Date
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddCourse.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddFaculty1.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AddStudent.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Administrator.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.AdminSignUp.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseManagement.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.CourseRegistration.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteCourse.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.DeleteFaculty.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.EnterGrades.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Faculty.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.FacultyManagement.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Generatereport.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.login.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.MainForm.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageCourseMaterials.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageFinances.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ManageProfile.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PasswordReset.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.PayFees.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Student.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.StudentManagement.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.Transcript.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateCourse.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdatePassword.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.UpdateUser.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.VerifyEnrollment.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewGrades.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.ViewRoster.resources
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\UniversityManagement.vcxproj.GenerateResource.cache
+C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\Universi.B7342128\x64\Debug\Universi.4A74D225.Up2Date

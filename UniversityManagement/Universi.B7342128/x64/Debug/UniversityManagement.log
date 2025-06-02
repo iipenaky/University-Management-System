@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\USER\DOWNLOADS\MYSQL-FOR-VISUALSTUDIO-2.0.5-NOINSTALL\V461\MYSQL.DATA.DLL" is missing.
+  UniversityManagement.vcxproj -> C:\Users\user\OneDrive - Ashesi University\Documents\Intermediate_Programming\UniversityManagement\UniversityManagement\x64\Debug\UniversityManagement.exe

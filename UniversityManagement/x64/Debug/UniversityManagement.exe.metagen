@@ -1,0 +1,241 @@
+  UniversityManagement.AddCourse.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.AddFaculty1.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.AddStudent.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.Administrator.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.AdminSignUp.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.CourseManagement.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.CourseRegistration.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.DeleteCourse.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.DeleteFaculty.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.EnterGrades.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.Faculty.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.FacultyManagement.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.Generatereport.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.login.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.MainForm.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.ManageCourseMaterials.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.ManageFinances.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.ManageProfile.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.PasswordReset.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.PayFees.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.Student.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.StudentManagement.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.Transcript.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.UpdateCourse.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.UpdatePassword.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.UpdateUser.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.VerifyEnrollment.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.ViewGrades.resources - Embedded, ContainedInManifestFile, 
+  UniversityManagement.ViewRoster.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly UniversityManagement, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class UniversityManagement.AddCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.AddFaculty1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    clearBoxes(): PrivateScope, Public, HideBySig
+    HashPassword(String): PrivateScope, Public, HideBySig
+Class UniversityManagement.AddStudent: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    clearBoxes(): PrivateScope, Public, HideBySig
+    HashPassword(String): PrivateScope, Public, HideBySig
+Class UniversityManagement.DeleteCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.UpdateCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.CourseManagement: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.DeleteFaculty: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.UpdateUser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.FacultyManagement: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.StudentManagement: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.ManageFinances: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.Generatereport: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.Administrator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.AdminSignUp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 userId : Public, Static
+  Methods:
+    clearBoxes(): PrivateScope, Public, HideBySig
+    HashPassword(String): PrivateScope, Public, HideBySig
+Class UniversityManagement.CourseRegistration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.EnterGrades: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.ViewRoster: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String userid : Public
+Class UniversityManagement.ManageProfile: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String userid : Public
+Class UniversityManagement.ManageCourseMaterials: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.VerifyEnrollment: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.Faculty: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String id : Public
+Class UniversityManagement.PayFees: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String userid : Public
+Class UniversityManagement.ViewGrades: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String userid : Public
+Class UniversityManagement.Transcript: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String userid : Public
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+Class UniversityManagement.Student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String id : Public
+Class UniversityManagement.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String id : Public
+Class UniversityManagement.UpdatePassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+    System.String userid : Public
+  Methods:
+    HashPassword(String): PrivateScope, Public, HideBySig
+Class UniversityManagement.PasswordReset: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class UniversityManagement.login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String userId : Public
+    MySql.Data.MySqlClient.MySqlConnection sqlConn : Public
+    MySql.Data.MySqlClient.MySqlCommand sqlCmd : Public
+    System.Data.DataTable sqlDt : Public
+    MySql.Data.MySqlClient.MySqlDataAdapter sqlDtA : Public
+    MySql.Data.MySqlClient.MySqlDataReader sqlRd : Public
+  Methods:
+    HashPassword(String): PrivateScope, Public, HideBySig
+    getUserId(): PrivateScope, Public, HideBySig
